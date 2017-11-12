@@ -1,0 +1,149 @@
+body{
+    line-height: 1.9rem;
+    color: #808080;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.9rem;
+    display: block;
+    color: #737373;
+}
+.navbar-brand h4{
+  font-weight: 800;
+}
+.navbar .collapse .navbar-nav .nav-item a{
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #4d4d4d;
+}
+.navbar .collapse .navbar-nav .nav-item.active a{
+    color: #ba1919;
+}
+/*-- Slider--*/
+.slider .carousel-inner .overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background-color: rgba(0,0,0,.6);
+    z-index: 2;
+}
+
+/*--End slider--*/
+/*--Sobre nos--*/
+.top{
+    padding: 50px 0;
+    background: #ba1919;
+}
+.top h2{
+    font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Signika', sans-serif;
+    font-weight: 800;
+    color: #e6e6e6;
+}
+.top span{
+    font-size: 2rem;
+    color: #bfbfbf;
+}
+.aboutus{
+    padding: 80px 0;
+}
+.aboutus h3{
+    font-size: 2rem;
+    font-family: 'Signika', sans-serif;
+    font-weight: 800;
+    color: #ba1919;
+}
+
+/*---Why--*/
+.why-two{
+    padding: 50px 0;
+}
+.why-one{
+    margin-bottom: 40px;
+}
+.why-one i{
+    margin-right: 10px;
+    color: #ba1919;
+}
+.why-one h3{
+    font-size: 2.2rem;
+    font-family: 'Signika', sans-serif;
+    font-weight: 800;
+    color: #ba1919;
+    text-transform: uppercase;
+}
+/*--serviços--*/
+.services-one{
+    padding: 50px 0;
+}
+.services-one img{
+    display: block;
+    width: 50px;
+    margin-bottom: 10px;
+}
+.services h3{
+    font-size: 1.7rem;
+    font-family: 'Signika', sans-serif;
+    font-weight: 500;
+    color: #ba1919;
+}
+.services .left{
+    float: left;
+}
+.services .left li{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.9rem;
+    display: block;
+    color: #737373;
+}
+.services .left li:before{
+    font-family: 'FontAwesome';
+    content: "\f138";
+    display: inline-block;
+    margin-right: 5px;
+    color: #ba1919;
+}
+
+/*--Contactos--*/
+.contactos p{
+    color: #fff;
+    font-size: 1.3rem;
+}
+.contactos li{
+    display: inline-block;
+    margin-right: 30px;
+}
+.contactos i{
+    color: #fff;
+    font-size: 4rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
